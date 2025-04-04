@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="en"><head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Zain | UI/UX Designer & Front-End Developer</title>
+  <title>Shaheer | UI/UX Designer & Front-End Developer</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
@@ -99,7 +99,7 @@ footer {
   </style>
 </head><body>
   <header>
-    <h1>Hey, I'm Zain</h1>
+    <h1>Hey, I'm Shaheer</h1>
     <p>UI/UX Designer & Front-End Developer</p>
   </header>  <nav>
     <a href="#about">About</a>
@@ -120,9 +120,9 @@ footer {
     </div>
   </section>  <section id="contact" class="contact">
     <h2>Contact Me</h2>
-    <p>Let's connect! Email me at <a href="mailto:zain@example.com">zain@example.com</a></p>
+    <p>Let's connect! Email me at <a href="mailto: siddiquizain169@gmail.com">zain@example.com</a></p>
     <p>or find me on <a href="#">LinkedIn</a> | <a href="#">GitHub</a></p>
   </section>  <footer>
     <p>&copy; 2025 Zain. All rights reserved.</p>
   </footer>
-</body></html># zain-protfolio.-
+</body></html>
